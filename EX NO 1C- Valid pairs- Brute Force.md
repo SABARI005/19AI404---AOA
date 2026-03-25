@@ -33,8 +33,8 @@ x if x >= 0.
 ```
 /*
 Program to implement Reverse a String
-Developed by: Priyanka A
-Register Number: 212222230113
+Developed by : SABARI S
+RegisterNumber : 212222240085
 */
 import java.util.Scanner;
 public class CountPairsWithDifference {
